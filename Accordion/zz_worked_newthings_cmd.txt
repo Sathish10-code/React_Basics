@@ -1,0 +1,8 @@
+If use ICONS in REACT;
+
+First open the terminal
+
+install the react-icons:
+
+code :-   npm install react-icons
+
